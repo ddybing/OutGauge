@@ -1,0 +1,3 @@
+﻿  OutGauge.cpp
+c:\users\danie\source\repos\outgauge\outgauge.cpp(164): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OutGauge.vcxproj -> C:\Users\danie\source\repos\OutGauge\Debug\OutGauge.exe
